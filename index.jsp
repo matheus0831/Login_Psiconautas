@@ -24,7 +24,7 @@
             <div class="novamente"><a id="novamente" href="../index.html"><span class="spannovamente">Nova</span>Mente</a></div>
             <form action="/teste/checarLogin">
             <label class="user">
-              <input type="text" placeholder="Usuário ou e-mail" id="user" name="usuario"/>
+              <input type="text" placeholder="UsuÃ¡rio ou e-mail" id="user" name="usuario"/>
             </label>
             
             <section>
@@ -75,7 +75,7 @@
           <div class="create-acc">Criar sua conta</div>
           <form action="/teste/gravado">
           <label>
-            <input class="user2" type="text" placeholder="Usuário ou e-mail" name="usuario"/>
+            <input class="user2" type="text" placeholder="UsuÃ¡rio ou e-mail" name="usuario"/>
           </label>
 
           <label>
@@ -89,7 +89,7 @@
 
           <label class="check">
             <input id="checkbox" type="checkbox"/>
-            <span class="termos">Termos de serviço</span>
+            <span class="termos">Termos de serviÃ§o</span>
           </label>
 
           <label class="button2">
